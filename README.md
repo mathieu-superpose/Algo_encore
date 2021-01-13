@@ -5,14 +5,16 @@
 
 ## Sorting Algorithms
 
-`Program which sorts a list of integers and counts the number of iterations it needed. Fusion, Bubble and Selection sorting methods have been used`
+`Sorts a list of integers and counts the number of iterations needed. Fusion, Bubble and Selection sorting methods have been used`
 
-Exemple:
+Example:
 
 $ cat list.txt
 48 -2 6 12 0 -4
 
 $ node monProgramme.js list.txt
+
+
 Tri fusion: 16 comparaisons - [-4, -2, 0, 6, 12, 48]
 Tri bubble: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
 Tri selection: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
@@ -49,7 +51,7 @@ and [1, 4, 5, 8] should output 1
 
 ## How to test
 
-Move your terminal to the appropriate folder and follow this path:
+Access to the appropriate folder from the terminal and follow this path:
 
 ` $ node program.js input_data.txt `
  
@@ -58,4 +60,4 @@ Move your terminal to the appropriate folder and follow this path:
 - [:palm_tree: Benjamin Serval](https://github.com/BenjaminServal)
 - [:evergreen_tree: Clémentine Fouqué](https://github.com/Clem-svg)
 - [:deciduous_tree: Marie Dechaux](https://github.com/mariedx)
-- [:seedling: Mathieu JOLY](https://github.com/mathieu-superpose)
+- [:seedling: Mathieu Joly](https://github.com/mathieu-superpose)
