@@ -16,8 +16,11 @@ $ node monProgramme.js list.txt
 
 
 Tri fusion: 16 comparaisons - [-4, -2, 0, 6, 12, 48]
+
 Tri bubble: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
+
 Tri selection: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
+
 
 ### Problem 1:
 
