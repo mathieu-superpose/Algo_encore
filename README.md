@@ -1,8 +1,21 @@
 # Algo_encore
 <p align="center">
-  <img alt="Algo_encore_logo" src="https://github.com/mathieu-superpose/Algo_encore/blob/master/assets/images/algo_logo.png"/>
+  <img alt="Algo_encore_logo" src="https://github.com/mathieu-superpose/Algo_encore/blob/master/assets/images/algo_logo.png" height="200"/>
 </p>
-## Exercises:
+
+## Sorting Algorithms
+
+`Program which sorts a list of integers and counts the number of iterations it needed. Fusion, Bubble and Selection sorting methods have been used`
+
+Exemple:
+
+$ cat list.txt
+48 -2 6 12 0 -4
+
+$ node monProgramme.js list.txt
+Tri fusion: 16 comparaisons - [-4, -2, 0, 6, 12, 48]
+Tri bubble: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
+Tri selection: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
 
 ### Problem 1:
 
