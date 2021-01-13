@@ -25,6 +25,8 @@ Example:
 the list [10, 15, 3, 7] and a key of 17 should output true
 while [1, 8, 10, 21] and k = 19 should output false
 
+nb: the input text file is a list of number where the firt is the key
+
 |Exercise|algorithmic complexity                                                   
 |-|-|
 |`1` complete| O(n²)            
