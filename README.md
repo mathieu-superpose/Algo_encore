@@ -27,7 +27,9 @@ Tri selection: 15 comparaisons - [-4, -2, 0, 6, 12, 48]
 `Test if a list contains two elements which sum is equal to a specific value.`
 
 Example:
+
 the list [10, 15, 3, 7] and a key of 17 should output true
+
 while [1, 8, 10, 21] and k = 19 should output false
 
 nb: the input text file is a list of number where the firt is the key
@@ -43,7 +45,9 @@ nb: the input text file is a list of number where the firt is the key
 `Out of a list which symbolizes buildings aligned from east to west, and where value is the building heigth, guess how many building have appartments that are not completely obstructed and allow a view of the west.`
 
 Example:
+
 the list [3, 7, 8, 3, 6, 1] should output 3
+
 and [1, 4, 5, 8] should output 1
 
 |Exercise|algorithmic complexity                                                   
