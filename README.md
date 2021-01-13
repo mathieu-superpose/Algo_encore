@@ -1,6 +1,6 @@
 # Algo_encore
 <p align="center">
-  <img alt="Algo_encore_logo" src="https://github.com/mathieu-superpose/Algo_encore/assets/images/algo_logo.png"/>
+  <img alt="Algo_encore_logo" src="https://github.com/mathieu-superpose/Algo_encore/blob/master/assets/images/algo_logo.png"/>
 </p>
 ## Exercises:
 
